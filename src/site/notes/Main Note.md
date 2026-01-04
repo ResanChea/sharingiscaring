@@ -2,4 +2,4 @@
 {"dg-publish":true,"permalink":"/main-note/","tags":["gardenEntry"]}
 ---
 
-this is my main page
+[[Verifying Vercel with Github Pages Domain\|Verifying Vercel with Github Pages Domain]]
